@@ -1,0 +1,8 @@
+Branches adalah bagian dari proses pengembangan 
+perangkat lunak dan salah satu fitur paling kuat di Git. 
+Branches pada dasarnya adalah penunjuk untuk 
+commit tertentu.
+
+Saat memperbaiki bug atau bekerja pada fitur baru, 
+developer membuat branch baru yang nantinya dapat 
+digabungkan ke basis kode utama
