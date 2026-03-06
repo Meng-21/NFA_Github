@@ -1,0 +1,6 @@
+Istilah- istilah yang ada pada github 
+- Repositori
+- Branch 
+- Pull Request (PR)
+- Forking Repository 
+dan masih banyak lagi istilah istilah yang ada pada github 
