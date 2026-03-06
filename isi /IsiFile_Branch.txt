@@ -1,0 +1,3 @@
+Branch merupakan salinan dari repositori. Anda bisa menggunakan 
+branch ketika akan melakukan suatu pengembangan
+atau development secara terpisah.
