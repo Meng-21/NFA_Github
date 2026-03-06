@@ -1,0 +1,2 @@
+git clone digunakan untuk mengambil salinan dari repositori Git 
+dari server yang ada di cloud atau github ke komputer kita
